@@ -2,3 +2,9 @@
     margin-top: 10VH;
     width: 20VW;;
 }
+#canvas {
+    border: 1px solid black;
+    width: 560px;
+    height: 360px;
+  }
+  
